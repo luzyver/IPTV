@@ -64,7 +64,6 @@ def fetch_all_channels() -> list[dict]:
                     channels[key] = {
                         "name":  name,
                         "url":   ch.get("url", ""),
-                        "image": ch.get("image", ""),
                     }
     return sorted(list(channels.values()), key=lambda x: x["name"])
 
