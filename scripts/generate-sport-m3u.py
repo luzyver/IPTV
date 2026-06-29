@@ -9,8 +9,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Optional
 
+import os
+
 EVENTS_API = "https://api.cdnlivetv.tv/api/v1/events/sports/?user=cdnlivetv&plan=free"
-OUTPUT_FILE = Path(__file__).resolve().parent.parent / "SPORTS.m3u"
+if os.environ.get("GITHUB_ACTIONS") == "true":
+    OUTPUT_FILE = Path(__file__).resolve().parent.parent / "SPORTS.m3u"
+else:
+    OUTPUT_FILE = Path(__file__).resolve().parent.parent / ".SPORTS.m3u"
 MAX_WORKERS = 20
 
 HEADERS = {

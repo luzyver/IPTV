@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: lzvr-iptv-app
+    restart: always
+    ports:
+      - "127.0.0.1:5000:5000" # Expose port 5000 hanya ke localhost VPS (untuk keamanan)
+    environment:
+      - PORT=5000
+      - NODE_ENV=production
+    networks:
+      - lzvr-network
+
+networks:
+  lzvr-network:
+    name: lzvr_network
+    driver: bridge

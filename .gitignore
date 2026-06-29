@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Local IPTV server hidden playlists
+.*.m3u
+
+# Environment variables
+.env
+.env.local
+
+# Operating System files
+.DS_Store
+Thumbs.db

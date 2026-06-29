@@ -1,0 +1,25 @@
+{
+  "name": "iptv-web-app",
+  "version": "1.0.0",
+  "description": "Sleek IPTV Web Application and Streaming Proxy",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm run --prefix frontend dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "build:client": "npm run --prefix frontend build",
+    "build": "npm run build:client",
+    "install:client": "npm install --prefix frontend",
+    "install:all": "npm install && npm run install:client"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.4"
+  }
+}
