@@ -3,6 +3,7 @@ node_modules/
 
 # Local IPTV server hidden playlists
 .*.m3u
+data/
 
 # Environment variables
 .env

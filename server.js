@@ -15,14 +15,14 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const M3U_PATH = path.join(__dirname, '.SPORTS.m3u');
+const M3U_PATH = path.join(__dirname, 'data', '.SPORTS.m3u');
 const SCRAPE_SCRIPT_PATH = path.join(__dirname, 'scripts', 'generate-sport-m3u.py');
 
 // Parse M3U playlist file into structured JSON
 function parseM3U(filePath) {
   let activePath = filePath;
   if (!fs.existsSync(activePath)) {
-    const fallbackPath = filePath.replace('.SPORTS.m3u', 'SPORTS.m3u');
+    const fallbackPath = path.join(__dirname, 'SPORTS.m3u');
     if (fs.existsSync(fallbackPath)) {
       console.log(`[INFO] .SPORTS.m3u not found. Falling back to committed SPORTS.m3u`);
       activePath = fallbackPath;

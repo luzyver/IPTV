@@ -15,7 +15,8 @@ EVENTS_API = "https://api.cdnlivetv.tv/api/v1/events/sports/?user=cdnlivetv&plan
 if os.environ.get("GITHUB_ACTIONS") == "true":
     OUTPUT_FILE = Path(__file__).resolve().parent.parent / "SPORTS.m3u"
 else:
-    OUTPUT_FILE = Path(__file__).resolve().parent.parent / ".SPORTS.m3u"
+    OUTPUT_FILE = Path(__file__).resolve().parent.parent / "data" / ".SPORTS.m3u"
+OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 MAX_WORKERS = 20
 
 HEADERS = {
