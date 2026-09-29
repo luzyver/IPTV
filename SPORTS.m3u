@@ -1,27 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CNBC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Sports",CNBC US
+#EXTINF:-1 tvg-name="FOX US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Fox.svg" group-title="Sports",FOX US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb492/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkyOjE3OTA3MTAwMjA0MzM6Y2RubGl2ZXR2LnR2OmQ4MjVmOTQ4NzU0NmNhMzguNDZiZjdjNTM4OWFmMjE0MTAyMTIwZmRkOWYxNDcxYzRkMGVlNjFlZWNhNjllMWQ3NTcwZjAyYWU5ZDVlMzJiYQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTA3MjcwMjU0NDE6Y2RubGl2ZXR2LnR2OmJkNzg2NzcyMjllODIyMjYuMzhiMThlYTQ3MDYwYjFjMGRmNmRjNTE0ZTYwNTRjZDczODkyYmNiNmU4NzNmNWI0MzYzNjM3ZjlhZTViMzc5Zg
 
-#EXTINF:-1 tvg-name="MLB | Atlanta Braves" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB | Atlanta Braves
+#EXTINF:-1 tvg-name="MLB | Philadelphia Phillies" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB | Philadelphia Phillies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb612/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3OTA3MTAwMjA0MzM6Y2RubGl2ZXR2LnR2OjEzMzdkNWI0MDM0ODRjZmQuOWRkNzdhMDRkZTBjZjBhZjRhNTJkZTE1OThiZWYzZmRjYTczNTFlY2MxNzM2YzA3MTEzYTdkOGUwY2E2NTRlNQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb616/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE2OjE3OTA3MjcwMjU0MzI6Y2RubGl2ZXR2LnR2OjEyN2QwM2RkOWI3MzBlOGIuMTMxMmJhNjRlOWU0MzAzNzI2ZmM0YzRhNmNmN2U4OWI5ZTgxMGU2OWM2YjVmNGI3MGQzZjY5ZDZmYTI3OGUxZg
 
 #EXTINF:-1 tvg-name="NBC US" tvg-logo="https://i.imgur.com/divkttQ.png" group-title="Sports",NBC US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3d1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3OTA3MTAwMjA0MDI6Y2RubGl2ZXR2LnR2OjUzMmRiMjA3NGYzODI0M2YuNjY1NjE0YWEyZWIxNDg4ZmI4ZGQ1ZGE1ZjVjNjg4OTQ1MGQ0M2IzOTExODFjNTA2M2VmMzRmMzhjZGNkMTk2OA
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3d1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3OTA3MjcwMjU0MjU6Y2RubGl2ZXR2LnR2OjRlMGE3ZTI4N2IxMGUyYmMuMGI3OTg5NDlmNWIwNmY4YTcwNjZkYTA4MWZhOTQyNmUzNzUwOTZjNzExM2MyZDM0ZWVjNTJkNTRjNmMzMGI2Mw
 
-#EXTINF:-1 tvg-name="Sportsnet One HD CA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Sportsnetone2011.svg/960px-Sportsnetone2011.svg.png" group-title="Sports",Sportsnet One HD CA
+#EXTINF:-1 tvg-name="Premiere 1 HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png" group-title="Sports",Premiere 1 HD BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTA3MTAwMjA0MTM6Y2RubGl2ZXR2LnR2Ojc4NjY0MWRjMTk3Y2JkMzUuNDlkZWFhODEyY2FiZjUxYTZjNTY3MjVhN2JhMWJmODA3Y2JiOTZhNzMwYzhlOGM2NzFkOTIzMGYyMTA2OTJmMg
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce75e/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzVlOjE3OTA3MjcwMjU0NDI6Y2RubGl2ZXR2LnR2OjI3NDY2ZmU3MmJiZmMwMWYuZGVmOWY0MWQ1ZjVmM2QxYTliYjFhZGE0MDJkNzJjMDJjMjI4Yjg3YjhmNmVkYjVmMmI4ZDM4NTkzMTQ0OTgzYw
 
-#EXTINF:-1 tvg-name="TNT Sports 2 FHD UK" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Sports",TNT Sports 2 FHD UK
+#EXTINF:-1 tvg-name="Sky Sports Main Event FHD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports",Sky Sports Main Event FHD UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTA3MTAwMjA0MDY6Y2RubGl2ZXR2LnR2OjhkODA5ZjMyNmQyMDlkMjEuMDJmZjJjNzYzMmE2ZDZlNDg3NzY4ZGE5NmQzY2EwMTg5MTJhZmY2NzUxMTVlNjQ1ODM4M2JiNmRmMmJkZWM3NQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTA3MjcwMjU0MTY6Y2RubGl2ZXR2LnR2OmYzYjNkZTE0NmYzYjQ5ZjcuZTE0YzM4YmRjOGM5ZmRmOWQ1OTE5ZDhhMjA0Y2IwOWQzNGRhYTRiNTM1OTA5NzEyYjQ3NWY3ZTUwODM1Nzg0OQ
+
+#EXTINF:-1 tvg-name="TNT US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Sports",TNT US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTA3MjcwMjU0NTk6Y2RubGl2ZXR2LnR2Ojk0YmM5NGY0ZmZhMTAyNjQuZmU5NDk1MGQxZmZmMmQwNmQ1MTUxMjg3MDhkMWQ0ZjZhN2Y1ZWVjNjAxYjQzODIxYTI0ODNiNTMzYWRjODliZQ
+
+#EXTINF:-1 tvg-name="USA Network US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Sports",USA Network US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3OTA3MjcwMjU0NTk6Y2RubGl2ZXR2LnR2OmQyNWQ5NTRmNTUyNDgxMzIuM2Y2YTI4YzcyNzg3MGMyZDlhYjc4YTI5YWE3MTQ1N2UzYTZhYzE2YzZlZWZhMjRjYzc5YjA4MjRiZDE3NDRhYQ
 
