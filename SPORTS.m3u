@@ -1,22 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CA CTV Vancouver" tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Sports",CA CTV Vancouver
+#EXTINF:-1 tvg-name="CNBC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Sports",CNBC US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cbfef/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZmVmOjE3OTA2ODY0NTQ1MzM6Y2RubGl2ZXR2LnR2OjUzNzI4YWE2NmJiMzg4YjYuYTExOWI4NTdjNTc4YTM5ZWM3ZDg1MTcyMTIyOTI5ZGIzZWM3NmJiOGMzOGI4MzNmNTMxNDFhYjUzY2QzODM1Mw
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb492/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkyOjE3OTA3MTAwMjA0MzM6Y2RubGl2ZXR2LnR2OmQ4MjVmOTQ4NzU0NmNhMzguNDZiZjdjNTM4OWFmMjE0MTAyMTIwZmRkOWYxNDcxYzRkMGVlNjFlZWNhNjllMWQ3NTcwZjAyYWU5ZDVlMzJiYQ
 
-#EXTINF:-1 tvg-name="Sky Sports F1 FHD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 FHD UK
+#EXTINF:-1 tvg-name="MLB | Atlanta Braves" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB | Atlanta Braves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3OTA2ODY0NTQ1NTM6Y2RubGl2ZXR2LnR2OmFiNGNkZDlkMDFmZmUwODAuMzgyYjZmYTBkYTRkZGQ3Zjc4ZjNiMjVkNGY3NDc1YjJhYjYyYTJhMzU2NDY3YWY4OWE0ODE0ZmRlMjk5ZjM1Mw
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb612/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3OTA3MTAwMjA0MzM6Y2RubGl2ZXR2LnR2OjEzMzdkNWI0MDM0ODRjZmQuOWRkNzdhMDRkZTBjZjBhZjRhNTJkZTE1OThiZWYzZmRjYTczNTFlY2MxNzM2YzA3MTEzYTdkOGUwY2E2NTRlNQ
 
-#EXTINF:-1 tvg-name="USA Network US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Sports",USA Network US
+#EXTINF:-1 tvg-name="NBC US" tvg-logo="https://i.imgur.com/divkttQ.png" group-title="Sports",NBC US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3OTA2ODY0NTQ1Mzc6Y2RubGl2ZXR2LnR2OjRmYTJkNzUxMzM2ZDI5MWUuMmExN2VmOGNlMjk2MTA0YTZhNzdlNWEyMTFlMjg5NzZmOTliYjNlODlmNWIwMzIxNGNiNDI3ZGQwZDk3MmI1Yw
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3d1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3OTA3MTAwMjA0MDI6Y2RubGl2ZXR2LnR2OjUzMmRiMjA3NGYzODI0M2YuNjY1NjE0YWEyZWIxNDg4ZmI4ZGQ1ZGE1ZjVjNjg4OTQ1MGQ0M2IzOTExODFjNTA2M2VmMzRmMzhjZGNkMTk2OA
 
-#EXTINF:-1 tvg-name="Univision CA" tvg-logo="https://i.imgur.com/mhE1D8w.png" group-title="Sports",Univision CA
+#EXTINF:-1 tvg-name="Sportsnet One HD CA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Sportsnetone2011.svg/960px-Sportsnetone2011.svg.png" group-title="Sports",Sportsnet One HD CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc04b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMDRiOjE3OTA2ODY0NTQ1MzI6Y2RubGl2ZXR2LnR2OmFlMTI2NzczM2NjY2YyZTAuOTkwNmQyMmVmYWNmZjQ4ZjY4NmVlZTY2MjNiMDM4YTFiNWEyYTMzYTgyMzRkMTY4NTRiMDkyNzM2MmRjNjIwYw
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTA3MTAwMjA0MTM6Y2RubGl2ZXR2LnR2Ojc4NjY0MWRjMTk3Y2JkMzUuNDlkZWFhODEyY2FiZjUxYTZjNTY3MjVhN2JhMWJmODA3Y2JiOTZhNzMwYzhlOGM2NzFkOTIzMGYyMTA2OTJmMg
+
+#EXTINF:-1 tvg-name="TNT Sports 2 FHD UK" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Sports",TNT Sports 2 FHD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTA3MTAwMjA0MDY6Y2RubGl2ZXR2LnR2OjhkODA5ZjMyNmQyMDlkMjEuMDJmZjJjNzYzMmE2ZDZlNDg3NzY4ZGE5NmQzY2EwMTg5MTJhZmY2NzUxMTVlNjQ1ODM4M2JiNmRmMmJkZWM3NQ
 
