@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ESPN Brasil HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN Brasil HD BR
+#EXTINF:-1 tvg-name="CA CTV Vancouver" tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Sports",CA CTV Vancouver
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTA2NjIzNzk0OTA6Y2RubGl2ZXR2LnR2OjZkOWQxOGMzODQ4M2I4MDAuMzZhNWQxZTQxNWEwYTQ5ZDc0MTcxMDFhMGM4OGRjOGQ1MGRlNGRlMjBlODk5MDM5YWM5ZmZmMzgyNGQ1OWI0YQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cbfef/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZmVmOjE3OTA2ODY0NTQ1MzM6Y2RubGl2ZXR2LnR2OjUzNzI4YWE2NmJiMzg4YjYuYTExOWI4NTdjNTc4YTM5ZWM3ZDg1MTcyMTIyOTI5ZGIzZWM3NmJiOGMzOGI4MzNmNTMxNDFhYjUzY2QzODM1Mw
 
-#EXTINF:-1 tvg-name="ESPN HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN HD US
+#EXTINF:-1 tvg-name="Sky Sports F1 FHD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 FHD UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb59f/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTlmOjE3OTA2NjIzNzk0NzI6Y2RubGl2ZXR2LnR2OjU2ZDFiMDgwNGMwNTUzNTEuMWViNTY3YjMxZjBmZDc1ZTcwNTE0YTQxOTJhOGViYWU1YTIwNDIzYWRjMmYyZmY2ZDAzYjMxZThlZmU0YjA0ZQ
-
-#EXTINF:-1 tvg-name="Sky Sports Main Event FHD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports",Sky Sports Main Event FHD UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTA2NjIzNzk0NzI6Y2RubGl2ZXR2LnR2OmU1MWMwZGUwMmM5ZmU2OTMuZDRmMWQ1ZWMwOTBmNTFkZmMxY2RhNjA0YTY5ZjUyYWE1MTU5MTNlOWY0YzVlM2JiMjFkOTUyM2IwZGUyZDUxYg
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3OTA2ODY0NTQ1NTM6Y2RubGl2ZXR2LnR2OmFiNGNkZDlkMDFmZmUwODAuMzgyYjZmYTBkYTRkZGQ3Zjc4ZjNiMjVkNGY3NDc1YjJhYjYyYTJhMzU2NDY3YWY4OWE0ODE0ZmRlMjk5ZjM1Mw
 
 #EXTINF:-1 tvg-name="USA Network US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Sports",USA Network US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3OTA2NjIzNzk0ODE6Y2RubGl2ZXR2LnR2OjcwNWMxMTcwMzcxYjlhNzcuOGQ4NzAwYzcxMDJhNzY3MzJkZDA5OTM4OTFkM2UyMDQyNjJkZTg4NWY2YTA1MjY4MDUxYTZjYWU0Yjk3ZjhkMg
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3OTA2ODY0NTQ1Mzc6Y2RubGl2ZXR2LnR2OjRmYTJkNzUxMzM2ZDI5MWUuMmExN2VmOGNlMjk2MTA0YTZhNzdlNWEyMTFlMjg5NzZmOTliYjNlODlmNWIwMzIxNGNiNDI3ZGQwZDk3MmI1Yw
+
+#EXTINF:-1 tvg-name="Univision CA" tvg-logo="https://i.imgur.com/mhE1D8w.png" group-title="Sports",Univision CA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc04b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMDRiOjE3OTA2ODY0NTQ1MzI6Y2RubGl2ZXR2LnR2OmFlMTI2NzczM2NjY2YyZTAuOTkwNmQyMmVmYWNmZjQ4ZjY4NmVlZTY2MjNiMDM4YTFiNWEyYTMzYTgyMzRkMTY4NTRiMDkyNzM2MmRjNjIwYw
 
