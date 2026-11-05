@@ -1,152 +1,337 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CA CTV2 OTTAWA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png" group-title="Sports",CA CTV2 OTTAWA
+#EXTINF:-1 tvg-name="05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK]" group-title="Sports",05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed5a/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDVhOjE3OTM4NTczMTkyOTM6Y2RubGl2ZXR2LnR2OjQ4NDU5ZWM5YjhiMTUyYTguY2M2OTc5OTQwYzk3NmMzOTQxMDE4Nzc0ZTBhNzQ3YjYyNTQ2ZTdkZWRmMDI2MDc5ZjQyNWZmZDlmOGZkMjYzYg
+https://cdnlivetv.tv/secure/api/v1/6add8cd42d4a99e07393f693/playlist.m3u8?token=NmFkZDhjZDQyZDRhOTllMDczOTNmNjkzOjE3OTM4ODQwMDQ4MDc6Y2RubGl2ZXR2LnR2OmQ2YmJjNmY1MTQ2OTc1OTAuNjc5OWVhMDdkOWQ3MjJmNzZkNzM3OGQ2NmI3N2QzM2UyYzlkYWE1NTdhOTM3OGZlZWJkOGY2NWNkNjdlNmU5ZA
+
+#EXTINF:-1 tvg-name="1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+]" tvg-logo="https://i.imgur.com/SZtJfOG.png" group-title="Sports",1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add8cd62d4a99e073941640/playlist.m3u8?token=NmFkZDhjZDYyZDRhOTllMDczOTQxNjQwOjE3OTM4ODQwMDQ3ODc6Y2RubGl2ZXR2LnR2OmY0Y2JjYjhmNTk0ZDI0NDYuNmJiNzBhYWJmNWM2NWY5ZGI0NWVhYzQzODQ4NDY4NGRlOGVlYmFhZTQ5MTQ1MTgxYTM4ZmJjYWE5MjE3YzE3Ng
 
 #EXTINF:-1 tvg-name="CANAL+ SPORT 6 FHD PL" tvg-logo="https://i.imgur.com/lhx8KnZ.png" group-title="Sports",CANAL+ SPORT 6 FHD PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f418/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE4OjE3OTM4NTczMTkzMDg6Y2RubGl2ZXR2LnR2OmY0MjBkODRiMDM0MjhjYTIuNTgyYjdiZjEwNmM5ZGEwNWRkMjFiMjBkMDU0YjBmNTQzYmQwN2FkNTMyOTVkMmNkNjU0NTc0MmU5OGIxZTJmNA
-
-#EXTINF:-1 tvg-name="CTV2 Ottawa CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png" group-title="Sports",CTV2 Ottawa CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363edd1/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZGQxOjE3OTM4NTczMTkyNTk6Y2RubGl2ZXR2LnR2OjQ4YjgzMTA3YWRjMjcyYWUuMjAzNjE0OTdjMzFjMWEyNjBmMTU1ZDMyZGJmMTQ2YTI2NDQzZDVhYjZjM2FmNzdiMGZmNWNjODA3NjhlZjUzMg
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f418/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE4OjE3OTM4ODQwMDQ1OTU6Y2RubGl2ZXR2LnR2OmFjZjYzYzgxYzViMDdjMzkuYjFlNDUxYmVlMGNiY2NiODdiOWFhZTJmMTA2OGRlODI4OGFhMmI0MzNlZWFmMzNjMDA1YjQ5Y2YwNDllZDhmNA
 
 #EXTINF:-1 tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="https://i.imgur.com/Aq2hnUj.png" group-title="Sports",Canal+ Sport 2 FHD PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f414/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE0OjE3OTM4NTczMTkyOTM6Y2RubGl2ZXR2LnR2OmIzNjM2OWI3MDRlZjQ5NDEuYWZlYWIzNzYxMjRlMDM5MjE5M2YxYmNkZjU0Mzc4MjVmY2RmNTI4MTRkZDdlNmI3ZDhiYWJjYTQ0MWZhYjg3Mg
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f414/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE0OjE3OTM4ODQwMDQ1ODk6Y2RubGl2ZXR2LnR2OjYzYWZjNDk3MDAxOWU2NTAuZmRkYjdjZTcxMjZlODBkZTA2YTllNWVmMzUxZjkxZTMxZDEwNjNjZThmODUwZTg3NTZkNGQ0NzM4YzMyMWExYw
 
 #EXTINF:-1 tvg-name="Canal+ Sport 3 FHD PL" tvg-logo="https://i.imgur.com/QZwPFa8.png" group-title="Sports",Canal+ Sport 3 FHD PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f415/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE1OjE3OTM4NTczMTkyNzY6Y2RubGl2ZXR2LnR2OjljN2MzZTU4NmJlMmVkNmIuNjQwNTY2ZDc2Y2Y1MTlhODEyYjg3NmVmYjkzZWExNGMyNmViNzFhYTMyNzcyOWJlMTAwYTlhMzEyZWMyN2UxNA
-
-#EXTINF:-1 tvg-name="Canal+ Sport 360 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Sports",Canal+ Sport 360 HD FR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07363feb2/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjNmZWIyOjE3OTM4NTczMTkyODg6Y2RubGl2ZXR2LnR2OjQxZGZhYjA2ODExYWQ3ZWYuZTFkNjk5YzcyYTg1MmFmMWY3YTMzNzYzNDc1ZGE5ZDYzZmQ5NjNhMDRhNmFlZmFjODkyMzliM2NjMTgyNTlhZQ
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f415/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE1OjE3OTM4ODQwMDQ1Nzk6Y2RubGl2ZXR2LnR2OjYzMTM2ZmM0MjgzMjYzY2QuNWJkNTFmZjE0MGY1ZDZmMDQzZTc2NGYwYWMzMmYyNDMzMWJjOTRjNTA3NjMyNDQyNmU0MmI1MGI0YTRhYWViOQ
 
 #EXTINF:-1 tvg-name="Canal+ Sport 4 FHD PL" tvg-logo="https://i.imgur.com/BNAPYAx.png" group-title="Sports",Canal+ Sport 4 FHD PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f416/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE2OjE3OTM4NTczMTkyNzQ6Y2RubGl2ZXR2LnR2OmJkMjE1OWQ4ZTQ2N2U0MTkuYjZkYTc5OWY3OWZhYjVkYzhiMjA0MTJhNzEyNTgzNzlhZmZlNWQyYmFjZDI3Y2FiMDE5ZmFiYWY5NzJkYTNkMA
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f416/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE2OjE3OTM4ODQwMDQ2MDQ6Y2RubGl2ZXR2LnR2Ojk0NmY5ZTYxZTZjOTZlM2MuODkxOTQyNTQ5OWUwODE3YTc1YjNhYWViYzNmZTk1MmIxYWNjZGRiOTY4NGFkZTRkMGRmMmUyMGViZGNlMWEwYQ
 
 #EXTINF:-1 tvg-name="Canal+ Sport 5 FHD PL" tvg-logo="https://i.imgur.com/78stEDU.png" group-title="Sports",Canal+ Sport 5 FHD PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f417/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE3OjE3OTM4NTczMTkyODE6Y2RubGl2ZXR2LnR2OmFmMzczZThiY2UyOGRkY2QuYTgyMGE4MDI5NTAxODlkYjUwODlhMDRhN2I2MjJkODQyMWY2ZDQxODI3MjY2NDZhNjQ1ZTY2YzMwZWYxZTZmNQ
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f417/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE3OjE3OTM4ODQwMDQ1ODA6Y2RubGl2ZXR2LnR2OjYzZTFjNGU4NGYxNDk2NzEuZGVmZThhYzJlMTM3MGEyMmMzYjdhYTRiYTY4NjQyNGUyN2M3MTJjMzNlOWY2MzRhZTA3M2MwYzNiZDRmYjQ3OQ
 
 #EXTINF:-1 tvg-name="Canal+ Sport Extra 1 FHD PL" tvg-logo="https://i.imgur.com/a5a6Tor.png" group-title="Sports",Canal+ Sport Extra 1 FHD PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f419/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE5OjE3OTM4NTczMTkyNTU6Y2RubGl2ZXR2LnR2OmNjMTEzOWQ2OWQyZWU5MTcuMDNiZmQ2YmE4MDJmMDdmNjk0ODFiYzRmNzczZjZmNzY4ZTI4MmIyYTMwZDY5YzY4NGRiNmNjMTI1MjY0M2MwNQ
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f419/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDE5OjE3OTM4ODQwMDQ1ODk6Y2RubGl2ZXR2LnR2OmZlZDg5ZmNmMTgyNzkwN2YuY2Q0YWI5MzhlZWY2OWMzNWM3YWQ3OTM5NGZhNzYwOGNhN2Y0OTM1NjgwNWI0ZmRmYzU5NzAyYWJlMzk4Yjg1Nw
 
 #EXTINF:-1 tvg-name="Canal+ Sport Extra 2 FHD PL" tvg-logo="https://i.imgur.com/a5a6Tor.png" group-title="Sports",Canal+ Sport Extra 2 FHD PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f41b/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDFiOjE3OTM4NTczMTkyOTM6Y2RubGl2ZXR2LnR2OmUwZDcxMjRiODFhYWM4MWYuYWM1YTA4NGZmNDk3Y2IyM2ExMmUzNTJjZmY5ZThhOGEyYzg4OTVkZTA5YjZmMWNiYTU3YWUwN2VmNjg5YTY0MA
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f41b/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDFiOjE3OTM4ODQwMDQ1ODQ6Y2RubGl2ZXR2LnR2OmMwODgyMjNmNjEzOTZmZjIuMjVhNGU4YzRlZjViNWYzZjgwZDNlODQ2ZjZhMDI1MDI5MWFhYTEzYzNiM2Y5MTBkMmIxMThhNTliNzI4ZTQ3Mg
 
 #EXTINF:-1 tvg-name="Canal+ Sport Extra 3 FHD PL" tvg-logo="https://i.imgur.com/a5a6Tor.png" group-title="Sports",Canal+ Sport Extra 3 FHD PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f41c/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDFjOjE3OTM4NTczMTkzMDA6Y2RubGl2ZXR2LnR2OjNhZGFjNzE2MmVhM2RlN2YuODBlMTg0MDE5ZGEzZjJjN2VmMmIyZjhjNWNjY2E2NmI4MDBkYzNiOTYwOTc5MGQ2Y2M2OTVhOGUzYmU5MjYwYw
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f41c/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDFjOjE3OTM4ODQwMDQ1ODU6Y2RubGl2ZXR2LnR2OjZkYTczYzQyY2U3YTE4MmMuMDM3N2MzM2FlZTQzMDMzZTg1Mjc2MDkxYjljZjJkMjU2ODliYmQ3Yzk2OWU4NTQ3NDljOTJlZDNhOTRkZTI1Yg
 
 #EXTINF:-1 tvg-name="Canal+ Sport Extra 4 FHD PL" tvg-logo="https://i.imgur.com/a5a6Tor.png" group-title="Sports",Canal+ Sport Extra 4 FHD PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f41d/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDFkOjE3OTM4NTczMTkyODM6Y2RubGl2ZXR2LnR2OjJlMjZlMjI4YTYzNmUwZjUuYWUzYjcyZGU4OGMyNTYwMDU0NDNiYWQ0MWZjZjY3NTk0ZWU2YWZhMDk3Mzg1ZmJjZTVhYTM5ZTM1N2Q1Y2QzMw
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f41d/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDFkOjE3OTM4ODQwMDQ1NzY6Y2RubGl2ZXR2LnR2OjJkM2VjYmRkNDljMTZiMjIuOTJiOTNiYzE1MDBmN2VhYzY4NjM4ZDEwODhiN2Y3NGUyM2U2YmFhN2IzYjY5NTA4MzI4NDVlOWVjNGU1Yjc4ZA
 
 #EXTINF:-1 tvg-name="Canal+ Sport FHD PL" tvg-logo="https://i.imgur.com/PtzoOQL.png" group-title="Sports",Canal+ Sport FHD PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f413/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDEzOjE3OTM4NTczMTkzMDE6Y2RubGl2ZXR2LnR2OmZhNTExNGI1ZTg0OGQzNmYuMTljNTg2N2E3ZjA2ZTBkYjZhZjgzZDVlNDRhOWM1NjE5ZTgwNDM2N2Q3ODZjNWU0MzA2NGM3MTY1Y2E0Y2Y1Mg
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f413/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDEzOjE3OTM4ODQwMDQ2MDE6Y2RubGl2ZXR2LnR2Ojc3ZGY3NjJkZmIwZDE1ODYuNTRmYjQ0YzQwZjc5YmIzN2YxN2RmZGE2YmMwNzZjZTk0OTFmMzBjYzhlNWU1OWYyNjU2NWRkNjZlNWVmODIyZg
 
 #EXTINF:-1 tvg-name="Canal+ Sport HD FR" tvg-logo="https://i.imgur.com/PtzoOQL.png" group-title="Sports",Canal+ Sport HD FR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07363feb5/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjNmZWI1OjE3OTM4NTczMTkyNjg6Y2RubGl2ZXR2LnR2OjZkYTUyYTA1YjcxNTk2YzEuZWYxOWM3MzFiNGQ2YTkwYzNkNjI1NzlhYjIwNTBiOGIzMDViZmY1NjI1MjMxZmViNmE4ODBkNTI0OGQ3NWY2Yg
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07363feb5/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjNmZWI1OjE3OTM4ODQwMDQ1OTE6Y2RubGl2ZXR2LnR2OmE5NWZmNWNhNzUwYzdmM2MuZTdhMWVkZTk3MDliMDhiNWFlNTZhMTQzNmQ4OGE3ZDlmNmYxYTBjNzllMDcxNGRlYjBkNGMwZjRlMDZlNGFmYQ
 
 #EXTINF:-1 tvg-name="Canal+ Sport SD FR" tvg-logo="https://i.imgur.com/PtzoOQL.png" group-title="Sports",Canal+ Sport SD FR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07363feb7/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjNmZWI3OjE3OTM4NTczMTkyNzI6Y2RubGl2ZXR2LnR2OjQ0NzA1ZjJhMGM1ODc3ZDQuZDUwMzJiNDFjNWEyYjE1NzUzYTZlYWY4MDc0YzYyYjg3M2ZlMTgwNmMwMDg5ZmRjYjI4ODcyZjkwNjNiOWQ3Yw
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07363feb7/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjNmZWI3OjE3OTM4ODQwMDQ1OTE6Y2RubGl2ZXR2LnR2OjUyMDcxZDcyNjdmYzgwNGEuZjNmZGQxZTBhMzVhMGEzNjJjNTYyMDliODdmMmRjMGEwYTg4ZDZhYjc2MDlmMzFmYzE0ODAxNGJlNGI0ODM5Ng
 
-#EXTINF:-1 tvg-name="Nova Sport Start HD GR" tvg-logo="https://i.imgur.com/bQvS1E8.png" group-title="Sports",Nova Sport Start HD GR
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Sports",DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e0736412a8/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMmE4OjE3OTM4NTczMTkyNjU6Y2RubGl2ZXR2LnR2OjU0NzY4MTMwZjA0MDUzY2QuM2IxZDBhYWQzYTA3M2NlY2E1NjcyMjgzMDMwY2Y3YjdiNDdlNTc0YjRhMTIwYWQxODViMmY3NDE1OGNiZGNjNg
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f314/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmMzE0OjE3OTM4ODQwMDQ2MDI6Y2RubGl2ZXR2LnR2OjVlNGY5Zjg0NjAzN2I3NTguYWY4MTZmZWMwZjEwNmU3ZDdiMWEzMWQwM2MxMTRlM2YzZWVhYmRmNWQyMWM3ZTUzNDc1NDNhMTBmZmMzMjJjMA
+
+#EXTINF:-1 tvg-name="ECHOSTAR WWE HD KRD" group-title="Sports",ECHOSTAR WWE HD KRD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363eefe/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZWZlOjE3OTM4ODQwMDQ2MDI6Y2RubGl2ZXR2LnR2OmZjYmFiMDEzNWQyZTAwNmIuZGVhMzM5NDg2ZjIwMWU3NmEzM2YwMjBlOTM4ZDM0OWQ2NzMxNzRlN2Q2MWNhYzBjYTE2OWIxYTkxNjE5OTQ5Yg
+
+#EXTINF:-1 tvg-name="ESPN 1 ULTRA  HD NL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 1 ULTRA  HD NL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f7e8/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmN2U4OjE3OTM4ODQwMDQ2MDA6Y2RubGl2ZXR2LnR2OjhjNzE1Njg5YTg4MjU5Y2QuM2MyMTQzMzg2YTU1YTM1Y2E5Yjk3YjE0ZTA1MTc4Yjk4N2U0ODhiMjExNjM4M2ZlOTMwZGUzMTI1MDVmZjhkMQ
+
+#EXTINF:-1 tvg-name="FOX Sports 3 Premium HD ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="Sports",FOX Sports 3 Premium HD ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e073640855/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwODU1OjE3OTM4ODQwMDQ2MjM6Y2RubGl2ZXR2LnR2OmRiMDUwNGQ2YjM4OWUxMTMuNGE4MDhjNGZmYTVjZjZkMzRhODk4ZmYzMDM3MTQxNWJkZDg2YjUwOTA3ZDI2Y2YyYzA4ZGM5NGE5OTYzYjkzMg
+
+#EXTINF:-1 tvg-name="Golf Channel HD US" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Sports",Golf Channel HD US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf2e/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjJlOjE3OTM4ODQwMDQ2MTA6Y2RubGl2ZXR2LnR2OjRiYzRiYzlkNDlmMzU5YzkuMTc3ZTI3ZGM0NmUxMTg0MGVlYjk5OWY4ZGE4MWUzOGRkOWVhMTE4ZDhlNDRjNTNhNDMyYjIxM2E5NmIyMmQ0NQ
+
+#EXTINF:-1 tvg-name="Golf+ HD FR" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="Sports",Golf+ HD FR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07363febc/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjNmZWJjOjE3OTM4ODQwMDQ2MjQ6Y2RubGl2ZXR2LnR2OjA4MTBhNWJhNzllMmM4YjEuZWQyOThiNzg4MjY2ZjgxNjZiODU4ZTBkNTcyZWQ0ZjAyZTEzMzk0NjVlNTlhZmI3Yzc3MjM2OTMzNjdlOThlOA
+
+#EXTINF:-1 tvg-name="MotoGP Ambient (D)" group-title="Sports",MotoGP Ambient (D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d3de/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkM2RlOjE3OTM4ODQwMDUwMjE6Y2RubGl2ZXR2LnR2OmM1MTA4M2JhMzlhYjMxM2YuOTQ1ZjAxZjEyZWJjYjZmYzVjMWFiOTBlOGI1YTA1ZWI2ZGViYjYxMDgzNjZkOTBkYzhhODQxYzZjMjkwOWRkNg
+
+#EXTINF:-1 tvg-name="MotoGP HELI (D)" group-title="Sports",MotoGP HELI (D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d3dd/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkM2RkOjE3OTM4ODQwMDUwMjM6Y2RubGl2ZXR2LnR2OmU0MjE0ZDFlODc4MGYxZjUuMDIxMTQyZGU1MjMxMTM5ZmJlOTVhNjdjMTI2MDUzNDhlNzE0NTY0NjJlYzA2Zjc1NjA1YjVkZjU2OTA4NmU3ZQ
+
+#EXTINF:-1 tvg-name="MotoGP OB1 (D)" group-title="Sports",MotoGP OB1 (D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d3dc/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkM2RjOjE3OTM4ODQwMDUwMjc6Y2RubGl2ZXR2LnR2OjJlYWJkYmZlYjdkZWRhNTEuZGU1ODA4Yjg4M2VmNTI3YzU2NTczOWI2MjFiYjBmYmE3OTk4ODE5NjBiOGRhOTkxNTVlM2RmYjhkNzFhMjhmYg
+
+#EXTINF:-1 tvg-name="MotoGP OB2 (D)" group-title="Sports",MotoGP OB2 (D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d3db/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkM2RiOjE3OTM4ODQwMDUwMjc6Y2RubGl2ZXR2LnR2OmEzMzg3YjFmZWQyYmM5MjcuNTc1MTczNmY1NDQ5ZDExOGU1ODI4OWZlMWVkY2I1N2E1MjhmYmJlYmNkMzU4NTY0MTkyMzY0Y2MwOTUwZDk2Yw
+
+#EXTINF:-1 tvg-name="MotoGP OB3 (D)" group-title="Sports",MotoGP OB3 (D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d3da/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkM2RhOjE3OTM4ODQwMDUwMzQ6Y2RubGl2ZXR2LnR2OjBlNWVmZjBlMGVmOTdkNTQuYTE0YzE1YjIxOTRiZDk1YTE2MWRhYzZjY2UwNTFmNzBkY2U3MGI0ZmEzMTQxNGI5YjA5YzllM2UyODZiNmRhMQ
+
+#EXTINF:-1 tvg-name="MotoGP OB4 (D)" group-title="Sports",MotoGP OB4 (D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d3d9/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkM2Q5OjE3OTM4ODQwMDUwMjQ6Y2RubGl2ZXR2LnR2OmRhZTJiN2Y0Y2Y5ODBkZGUuYWY5YTNhODgxNDk2OGI3N2YyMWM1MmY1NTgzNmI4ZmFhNmVmNWQwOTI1ZDJjM2MwOGFlYTkyOTA3Mjg0YTkzNg
+
+#EXTINF:-1 tvg-name="NASCAR" group-title="Sports",NASCAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d585/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNTg1OjE3OTM4ODQwMDUwMjg6Y2RubGl2ZXR2LnR2OjYyOWQ5MDRlYjg5Y2VmYTMuNjdjMDk3Yjk4MDZhZWVhZDA3MGMxYjU2Y2Y2MzE0MmQ2ODBiMGQ5ZTFlNmYwMjhjMjUzOGUwZjAxZTI2YWZkNg
+
+#EXTINF:-1 tvg-name="NEWROZ WWE HD KRD" group-title="Sports",NEWROZ WWE HD KRD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ef82/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZjgyOjE3OTM4ODQwMDUwMzM6Y2RubGl2ZXR2LnR2OjA5MGM0MDg0NmNhMDAyNDIuNjk4ZWUyZTI2MTJjYjg2ODc3N2I5MDdkMjBjMjQwMmFlNDU2NjBiNmE1NTM5MmQ5MjJmMmI0ZGE4M2FkMzc5ZA
+
+#EXTINF:-1 tvg-name="Premiere 1 HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png" group-title="Sports",Premiere 1 HD BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e073640628/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNjI4OjE3OTM4ODQwMDUwMzU6Y2RubGl2ZXR2LnR2OmExMmE5YWRkMTUxNTU2OTQuNzcwMWM3MjllZDhmY2E3MTJkNTM3YWQ1YThhYzY1NjE0YmEyYzY3Mjg0YzBjYWJlYzhmZThjMDUwZDBiZjZkZQ
+
+#EXTINF:-1 tvg-name="Premiere 2 HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png" group-title="Sports",Premiere 2 HD BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e073640598/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTk4OjE3OTM4ODQwMDUwMzU6Y2RubGl2ZXR2LnR2OmE3ODgyODYyMTU1NzhkMzQuYjNjZTM5MTZjY2MwODU2ZTQ5NTgxMGFhMDM1ZTNjY2VmZDcwNTM0ODZhZjY2MmZiNTM5N2M3MmI1OWI5MWJiNQ
+
+#EXTINF:-1 tvg-name="Premiere 3 HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png" group-title="Sports",Premiere 3 HD BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059a/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlhOjE3OTM4ODQwMDUwOTA6Y2RubGl2ZXR2LnR2OjM5NDcxN2MxOTk3MjY1OWMuYjVhMzE2YmI0NjgzZDI3NzVjYTc0OWJhMzIxOTg5NzcxMmU4MThjYTE0ZmVkNTRjMzhhMDYxMTdlOGNlMjgxMg
+
+#EXTINF:-1 tvg-name="Premiere 4 HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sky_Cinema_Fun_DE_Logo_2020.svg/960px-Sky_Cinema_Fun_DE_Logo_2020.svg.png" group-title="Sports",Premiere 4 HD BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059b/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTliOjE3OTM4ODQwMDUxMDc6Y2RubGl2ZXR2LnR2OjRmOTE2MmY1YjIxYTg2ZTQuNTFlNDM2MWFmOTBjY2UyZjRjMjEzNGY0MWY0MTQ5ZDBlNmYyMTA1NDkyNmI2YjA0MDkxN2NlMDkwNmM0MGQ4Ng
+
+#EXTINF:-1 tvg-name="Premiere 5 HD BR" group-title="Sports",Premiere 5 HD BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059c/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTljOjE3OTM4ODQwMDUxMDQ6Y2RubGl2ZXR2LnR2OmMyYTljYjk5NmNiNjY0MGQuYTI5Nzc1MzA4ZmYyYjk4ZmEyNTI5YWNlMjgwYjk4YjI5YmEyYzMzYjI0NDBkNzU3ZWRiNTZlY2IwMmUxNjIyZA
+
+#EXTINF:-1 tvg-name="Premiere 6 HD BR" group-title="Sports",Premiere 6 HD BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059d/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlkOjE3OTM4ODQwMDUwOTY6Y2RubGl2ZXR2LnR2OmU5MzU3MGQ1OTg5NTZlMmQuOTlhNTUyNjhjNzU2Yjg1MmUzMDM3ZGI0NDM3ZjFjZWVkYzM1NzQ4ODVlZGZhOTQyNWZkYTkzNGRjYzhmZDAwNg
+
+#EXTINF:-1 tvg-name="Premiere 7 HD BR" group-title="Sports",Premiere 7 HD BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059e/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTllOjE3OTM4ODQwMDUwOTQ6Y2RubGl2ZXR2LnR2OjVlMTQzNGM3NmM3ZjVmZGYuODQxNDdhNmQwM2IwMjdmODU4MTVkZTA5NzZhZGY2ODg0NzkxOGQ2MTU4MWMzYjQ5M2QyYWE2ZWU3ZGI2OTY3OQ
+
+#EXTINF:-1 tvg-name="Premiere Clubes HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports",Premiere Clubes HD BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTM4ODQwMDUxMDQ6Y2RubGl2ZXR2LnR2OmY5NDY0M2M0MGI5MTQzMzUuNjJkYTgzNDk0MDRlMmMzMjRhODBjYmNlZDNjNzdhNGU1MzkxYTU5ODRmYjJhYzdlNTlmZWY4YTlkZGY0ODNlZQ
 
 #EXTINF:-1 tvg-name="RDS 2 CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Reseau_Des_Sport_2.svg/960px-Reseau_Des_Sport_2.svg.png" group-title="Sports",RDS 2 CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed27/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDI3OjE3OTM4NTczMTkyODg6Y2RubGl2ZXR2LnR2OjBiMWJmZTU3YThhZGU0MzQuZWM1M2YxMGQzOTdjNmVjNjQ5OGY5YmEwODJmZTc4Yzg1ZDg4NTliZmQ0YTE0MTVjM2RjMDExYjk3OTdiMjk4Zg
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed27/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDI3OjE3OTM4ODQwMDUwOTY6Y2RubGl2ZXR2LnR2OmVhMWI0MDZlNzgzZjQxOWEuMmQwNGJlNzUzNTg2ODJjMTlhNmNkOTdjZWVhMjg0ZWQ4OGUxYzQ0OWEwNjZmMTYwN2M0YzNiNmVlMWU5MTdlMw
 
-#EXTINF:-1 tvg-name="RDS 2 QC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Reseau_Des_Sport_2.svg/960px-Reseau_Des_Sport_2.svg.png" group-title="Sports",RDS 2 QC
+#EXTINF:-1 tvg-name="RTL FHD DE" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Sports",RTL FHD DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ecd2/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlY2QyOjE3OTM4NTczMTkyODY6Y2RubGl2ZXR2LnR2OmVjNmQ4NTc3NjNkODRkNzYuN2U3NGM3MDc0ZmY1OGMxYTRmNGMyYjU4OGFjYmZlMzgyMDNkNDg0YjYyYjc5YmE4ZTZmNDdjZTFhZGI4Y2VhZQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c54f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjNTRmOjE3OTM4ODQwMDUwODI6Y2RubGl2ZXR2LnR2OjU0NTVkMTIyNDkyNjA0Y2YuMjVhMGMxNWZhZjc1ZjFhZDRiMDE4NTU2ZTlhMjI3NzE3YmE1NmQwNzUzYmY1ZWI1Yzg3N2YzNWE3N2M5MmQxYg
+
+#EXTINF:-1 tvg-name="Sky Sport 5 NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sky_Sport_5_DE_Logo_2020.svg/960px-Sky_Sport_5_DE_Logo_2020.svg.png" group-title="Sports",Sky Sport 5 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e073641046/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMDQ2OjE3OTM4ODQwMDUyNTM6Y2RubGl2ZXR2LnR2OjQwMDM2YzkzNDNmMWFmYTAuYzUzZDFjNTQ0MWM0N2YwN2I5MzEyMmVhM2U2OGVhMWViODI5MzdmYjQwZDE3ZTBjYjA3ZjM4OTQ0M2FmNTJiNg
+
+#EXTINF:-1 tvg-name="Sky Sport Golf HD DE" tvg-logo="https://i.imgur.com/nhhbHvs.png" group-title="Sports",Sky Sport Golf HD DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c7d6/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjN2Q2OjE3OTM4ODQwMDUyMzU6Y2RubGl2ZXR2LnR2OjU0NDM1YWUwMDFmZWVkNTYuZWFlNGE5YTAwZDNiZDIyMDZkODg3OTFhYzlmOGVmYTAzMDAwNGYyOGY4ZDZhOTc4NDQ3MGQ1NDQ5ZTI5NTE0YQ
+
+#EXTINF:-1 tvg-name="Sky Sport Top Event FHD DE" tvg-logo="https://i.imgur.com/kQ6cVNx.png" group-title="Sports",Sky Sport Top Event FHD DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c7cb/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjN2NiOjE3OTM4ODQwMDU2NjM6Y2RubGl2ZXR2LnR2OjVhZTNjMGQ0ZjYwODZiMTYuMDdlZjVmMmFmMGE5NTcyYTY3MjRhN2UzMDFiN2U4MDQwYTU0MWVkOTEwY2NlNWE0YTJkNGE3MTZkNDFhYzBjYw
+
+#EXTINF:-1 tvg-name="Sky Sports F1 FHD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 FHD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c85c/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODVjOjE3OTM4ODQwMDU2NjQ6Y2RubGl2ZXR2LnR2OjkzYTQ1MTc2MWM0MDUyNTQuZjhhZmUzNmNlYjRlMzFmYzNmZTAxNjAxMjFjZjg2YTZiMTU2NTg1YzQwZDU4MGZiODEwNTM3NjA0NDY5MjgxMg
+
+#EXTINF:-1 tvg-name="Sky Sports F1 HD DE" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 HD DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c7cf/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjN2NmOjE3OTM4ODQwMDU2NTc6Y2RubGl2ZXR2LnR2OjNiOTkzMDA1YzFiY2M4YTQuMWYwMTM0MWMyNGJmZDQxYmI3NTg5YWEwYWQwOGJiYzQwMjBhZDRjM2Q2NmY0MWUyYzljMzQ1YjZiMGU3NTE5OA
+
+#EXTINF:-1 tvg-name="Sky Sports F1 HD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 HD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c85b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODViOjE3OTM4ODQwMDU2NjY6Y2RubGl2ZXR2LnR2OmJjYjlkYzJkYTAyNjRhYzcuNzAxNzlmMTM5OGM2MDFiYzFkOTk5MjQwYThhN2I2MWZiOGUyY2MyOTJhNWY2NmJlNjY5M2I2Y2RmOTE4YjM4ZQ
+
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c85a/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODVhOjE3OTM4ODQwMDU2NjE6Y2RubGl2ZXR2LnR2OjJhZjdlNTI3NGQ4NWFkMWEuMjAyZTlmNWE5MmFhNjU3Njc4NjhlN2VlNGZkZDMyY2FmMTZmNWMyYjRlMDE0YjIzY2IwNzk4NzBlMDg4MDkxYg
 
 #EXTINF:-1 tvg-name="Sky Sports Football FHD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports",Sky Sports Football FHD UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88c/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhjOjE3OTM4NTczMTkyNzc6Y2RubGl2ZXR2LnR2OjQwMWFkZjNiOTU3M2VkOWYuYTUyZDY3YjAwNDdlMDJjNGJmNTM1MDhlZTM2MTI1YjFkZmEwNTRkYzM0NzY5ZGJlYmY4Mzc4NDJjNDY3Mzc2Zg
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88c/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhjOjE3OTM4ODQwMDU2NjI6Y2RubGl2ZXR2LnR2Ojg3ZjZlZTlhOGRmNTM4MmYuNzk5ZWYzMDRiYjUzNDE4YTc4MDc2ODNhNzNjMjk3OGI3YzY2OGI5MDVmNmUwNWU2ZmY5MzJhY2JiZGExMmZkNQ
 
 #EXTINF:-1 tvg-name="Sky Sports Football HD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports",Sky Sports Football HD UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhiOjE3OTM4NTczMTkyNzM6Y2RubGl2ZXR2LnR2OmViZWFiNTcyZjgwNWE3MjMuMDkzNWZhNzUzOGRlNmRmYWQ2ODYwMDY4NTY5MTQxM2MwMmJkYmRmMjRjYTY4MzA2ZDgwNzFlNjdmZGMwNmU4OQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhiOjE3OTM4ODQwMDU2NzM6Y2RubGl2ZXR2LnR2OjdhZjM3ODRjODYwMzJmYzAuODUyMDJkZWYzMmE3MzY4MzgwMWQ2MDlmZjA1NTgyZDIyMTcwYjI4MjYyMjU3MmUxODQwOWJmODViNTMzMjU2Yw
 
 #EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports",Sky Sports Football UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88a/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhhOjE3OTM4NTczMTk4MjM6Y2RubGl2ZXR2LnR2OjE4Mjc4YTJmZDU0MjU1Y2IuNGFjOWIyNzQ0MDZkZGZkN2I5ZDM2YmJmNTJmNzdkZjc5ZDFkM2Y1M2FjOTk5ODYzZWY1YjczMjcyMTllYWEyMQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88a/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhhOjE3OTM4ODQwMDU2NTc6Y2RubGl2ZXR2LnR2OmQ5Mjk3NjQyYjNlODgxMWQuNzk3YjNlYjQ0NTJkMTkzYTcwMDlmMzQ2OTRhY2IxMDJhOTk0ZDcyOWZkZWM4ZTFhNDUzOTM2YTY4NGNkMGVlOQ
+
+#EXTINF:-1 tvg-name="Sky Sports Golf HD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="Sports",Sky Sports Golf HD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c862/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODYyOjE3OTM4ODQwMDU2NTk6Y2RubGl2ZXR2LnR2OmUxNjUyZjlkNzA0Yjg0NjMuZjBjMmJkMDQ4NTgxOTBiZjU3NTNmZTY4YjM0N2YxMWFjMzBkZGQ2MTkyZDQ5NTlkNjYyZWVlZGQyYTExM2IzNA
+
+#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="Sports",Sky Sports Golf UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c861/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODYxOjE3OTM4ODQwMDU2NTc6Y2RubGl2ZXR2LnR2OmE1Yzk5OWQzOGU0ODg0ODUuOWNkMmM5NDVhMDUyYTI4Nzg4NDRhYWZjMjNmOTljYzllMjAxMWQwODQ3NjQ4MDkxYWI1NjRjMzFjNjU5N2I2OA
+
+#EXTINF:-1 tvg-name="Sky Sports Main Event FHD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports",Sky Sports Main Event FHD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTM4ODQwMDU2Njc6Y2RubGl2ZXR2LnR2OjI2ZGU3ZDNhOTFlMDQxM2IuOWNlMjljOTViNGMxYWM2N2RiZDU2NzIzYzFkMGE2MDMzN2I0N2U0Njk2NjU4YTExYzRhYWI5MjRhYWNmOTg1YQ
 
 #EXTINF:-1 tvg-name="Sky Sports NFL FHD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports",Sky Sports NFL FHD UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c870/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODcwOjE3OTM4NTczMTk4MjU6Y2RubGl2ZXR2LnR2OjE1NTZhYmNhMGQ4NjRmMDYuMjNkYjdkMDExZTFiODE2NjZiMTA1ZTAxMzdjY2I2MmY4Yjg5MWZkYjRhNGVlYzMxOGZhMjYwMThkMzA3YjU4Ng
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c870/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODcwOjE3OTM4ODQwMDU2NjU6Y2RubGl2ZXR2LnR2OmM5N2UzMDc2YzYwMzhmY2UuMDgxY2VmOGI5ZDYzYjlkYWViMGEyYTJjNjUzNDcwNTQ0ZGUzOTk5OTBjNGJhNzAzYTE4ODRmYmJlYjhlZTI0Nw
 
 #EXTINF:-1 tvg-name="Sky Sports NFL HD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports",Sky Sports NFL HD UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c86f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODZmOjE3OTM4NTczMTk4NTU6Y2RubGl2ZXR2LnR2OjEyODAxMGEzOWFlYTdhN2MuYmYxNTdmNzMwZThjMDhjZDZjMzYxZTk2NTU5NWJiOTllNDllYzU4M2Y5YzE5ZWZkMzBmYzg4ZDVjNWU3NmFhMg
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c86f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODZmOjE3OTM4ODQwMDU2NzM6Y2RubGl2ZXR2LnR2OjM3MDYwNzVlODkwZDFhMWYuNjAxZTBiMDAzZjY5MGFiOTI2NmE5NTI0YzAxZjAzZjkyNjQ5NmE2YjU2NjQ0MjViOGU5MGM4MGE2M2RjOWM5MA
 
-#EXTINF:-1 tvg-name="Sport 1 HD IL" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Sports",Sport 1 HD IL
+#EXTINF:-1 tvg-name="Sport 5 Live HD IL" tvg-logo="https://i.imgur.com/ti6SYvm.png" group-title="Sports",Sport 5 Live HD IL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e073641351/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMzUxOjE3OTM4NTczMTk4Mzk6Y2RubGl2ZXR2LnR2OjY3NjY4ZTM5ZDE2ZGNkMDkuMDgyZDhiY2EyZTMyNzFlYjU3NzYxYjk2OWEwMzdiMDFkYTFiYmM5MTk1MWIxODI3Mzk2MzBkNDE5M2Y2YjRmZg
+https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e07364135b/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMzViOjE3OTM4ODQwMDU2ODA6Y2RubGl2ZXR2LnR2OmVjODE1ZjJiYzU2N2MwNWYuNzBmNjBiZDMwZmIxZDE2NzAyMTE2NjVlYjQ2OWJhNmIxNmE5YWE1NTVhZTBiYTkxZjU1NTU3MzU2YThjNWYyMA
 
-#EXTINF:-1 tvg-name="Sport TV 3 HD PT" tvg-logo="https://i.imgur.com/Kte0JHs.png" group-title="Sports",Sport TV 3 HD PT
+#EXTINF:-1 tvg-name="TNT US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Sports",TNT US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363fa77/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmYTc3OjE3OTM4NTczMTk4Njk6Y2RubGl2ZXR2LnR2OmNiYTRkNGRiZjdiMjhkY2IuMjk2OGE1MDRiNTM5NjFhMjdiZjNiMzlhZjJlYTRiODQ0YmU4ZmFiNTFiMmYzYWU3M2E0YzdiNjI1ODJiYjExMw
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d02c/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDJjOjE3OTM4ODQwMDU2NjI6Y2RubGl2ZXR2LnR2OjdmNTZjM2Q4YjgwYTU0ZGQuYzdmZWRlMzg2NTVjNzdhOGFjZGJiNTY2NTM2MmJkOWRlMWMxZjc3Y2U0NzdhMGNiYmU2NTYxY2M1OTExNWI2OQ
 
 #EXTINF:-1 tvg-name="TSN 1 FHD CA" tvg-logo="https://i.imgur.com/odCNBZP.png" group-title="Sports",TSN 1 FHD CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed37/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDM3OjE3OTM4NTczMTk4Njk6Y2RubGl2ZXR2LnR2OjQ1ZWMwODcyNDdhYmZhZTYuNzQ0NGMzODYwZWUzMzI3YjNmZTk1NzFhMTQxZWI3NTQ5OGMzY2RmYzRjOTgzOWQ4MTg5NTJmMDEwZjVlZTI5OQ
-
-#EXTINF:-1 tvg-name="TSN 1 HD CA" tvg-logo="https://i.imgur.com/odCNBZP.png" group-title="Sports",TSN 1 HD CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed36/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDM2OjE3OTM4NTczMTk4NjQ6Y2RubGl2ZXR2LnR2OmE0YTg0NTMzMjY0ZjZhODQuNTY3NjM3NmY5ZTcyZjcwNjk3Njc5OTkxN2I2MTdiOTg5OGZjNWRkZGM3NDlhYjk1NWY5YWU5YjQ2MmFlMzVkMg
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed37/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDM3OjE3OTM4ODQwMDU2NjU6Y2RubGl2ZXR2LnR2OmI1MDdiNzA1NGFhNDU1ODkuMTA1OTY0NzJjMTQ4YTI3MTA2MDQ2OTEzNDE4ZjFiMjQ0Mzk5OTk1ZDYyNDRlYWE3MGU3NjllYTliOTUwNDE3NQ
 
 #EXTINF:-1 tvg-name="TSN 4 FHD CA" tvg-logo="https://i.imgur.com/odCNBZP.png" group-title="Sports",TSN 4 FHD CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3f/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNmOjE3OTM4NTczMTk4NTk6Y2RubGl2ZXR2LnR2Ojc2ZGY0Mjg1YWM0ODRlODcuNzhlYjFiMWQ5YjcxZjQ0NmUzYmMxN2NhMWZhN2IyMTVmMzBhMDhjNTMyNmY0OGQ4YmJiYmVjZDI5ZDdlMTg4MQ
-
-#EXTINF:-1 tvg-name="TSN 4 HD CA" tvg-logo="https://i.imgur.com/odCNBZP.png" group-title="Sports",TSN 4 HD CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3e/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNlOjE3OTM4NTczMTk4NTA6Y2RubGl2ZXR2LnR2OjYwODlhZDdjNjYyMTg3NzQuOGI2ZjFmOGFmMWE5OTExN2IwOTYzYmY2ZDMwY2ExNDQ1Nzk4ZWEwZWFlYWIxMWE1ZWI2MGY3YTBlZjc4YmI5Yw
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3f/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNmOjE3OTM4ODQwMDU2Njc6Y2RubGl2ZXR2LnR2OjE3YmEyZTdjNWViODY3ZmYuMmUxODI1MThiMzMzYzI1OWI0OTdkNGQwZDU5NDhiMWE2M2E1MTg5NzQyNjI5MzY4ZTg2NzMwNjI5NjQ4ZDQ1Ng
 
 #EXTINF:-1 tvg-name="Tipik FHD BE" tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="Sports",Tipik FHD BE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07363fff3/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjNmZmYzOjE3OTM4NTczMTk4NzI6Y2RubGl2ZXR2LnR2OjA2MTE4YzYxNWEwYWEyYzMuNmFhMmU2NTEzOWFkMzhhY2U3ZDgwMDU2MWJhYmUyN2E4NmU3MWI5NGQxNWIzYjJjMjVhMjM0NGViMTFhOTM4Zg
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07363fff3/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjNmZmYzOjE3OTM4ODQwMDU2Nzk6Y2RubGl2ZXR2LnR2OmE0NTBlNzE2Njk2MmJhNTUuMDg2NTQ4ZjQxMDhjNTRmYWMwOWNiY2I4YTNhOWUwYzQxMmQwZDVhODljMmZmMGUyMjRmODk1YTRkNjVjZTY5ZA
+
+#EXTINF:-1 tvg-name="UFC 1 (Solo Eventos)" group-title="Sports",UFC 1 (Solo Eventos)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f202/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmMjAyOjE3OTM4ODQwMDU2Njc6Y2RubGl2ZXR2LnR2OmU5YzFlOWIwM2M0ODc5MzguNTgzYzA2Mzc0Y2QyZDI1YmU5NWE5NjdkMTVmNGY2MTYxOTY4ZjY4ZDVkOGIzODFjNmJmMTlkNThlOTI1MzZiMQ
+
+#EXTINF:-1 tvg-name="UFC 2" group-title="Sports",UFC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4bb/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGJiOjE3OTM4ODQwMDU3MDk6Y2RubGl2ZXR2LnR2OjQzNTEyYmU5ODcxYTQ0YjEuN2JiYjFmZTA5ZTlhNGJmOTRlN2U4ZmI5NDczMGZkNjI4NWFhOWYxZjIxMDM4YjFhYzljNjQ3M2JkMTRhZDBhMA
+
+#EXTINF:-1 tvg-name="UFC 24/7 HD US" group-title="Sports",UFC 24/7 HD US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4bb/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGJiOjE3OTM4ODQwMDYxMTY6Y2RubGl2ZXR2LnR2OjUzNWYwYTA3MWM5ODQ3MmQuNTVkN2Q0NGIxYzFkODk3OTM4M2RjYmMzNTY3NDM0YWM0ODNjM2Y0M2Q0M2UyOTE1MDFhZTUzZTc0NjZiZjNiNA
+
+#EXTINF:-1 tvg-name="UFC 3 (Solo Eventos)" group-title="Sports",UFC 3 (Solo Eventos)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f204/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmMjA0OjE3OTM4ODQwMDYxMjQ6Y2RubGl2ZXR2LnR2OjQ1YTc4OTUxNGQ1ZGUzNzkuOTlhNTRlYTlkMjM1YzEwNjk0ZDI4MTZiYmNkZDNmNGM4ZTU2OWE4ZmY0Y2I5ZmRjMjIwZDg2OTU5M2RiMTE3Yw
+
+#EXTINF:-1 tvg-name="UFC Channel US" group-title="Sports",UFC Channel US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4bc/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGJjOjE3OTM4ODQwMDYxMTY6Y2RubGl2ZXR2LnR2OjhkMzA4NmI4MjI3ZDk0OTMuY2JlYjM1OGU4OGFhZGE5MzM3Mjg2ZDk1MGMyYzg1YzRkMTc3YjZkNzdjODRhMmVmMmM0YzcwYzY3MzZmZDU3Zg
+
+#EXTINF:-1 tvg-name="UFC Fight Pass 24/7 FHD US" group-title="Sports",UFC Fight Pass 24/7 FHD US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce75/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTc1OjE3OTM4ODQwMDYxMTg6Y2RubGl2ZXR2LnR2Ojk5OTg3OTU1MGJhN2RiZGMuYTBiZjlkNWZhZmU3ODFiMGEzNDRmYzAyNTBkOWQ2ZjNlOWFlNzBkODgyNzRkNWIwNzdkZDdiYzlmZWY0ZjRkOA
+
+#EXTINF:-1 tvg-name="UFC Fightpass HD BR" group-title="Sports",UFC Fightpass HD BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e0736405af/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNWFmOjE3OTM4ODQwMDYxMjc6Y2RubGl2ZXR2LnR2OjdkMTVlODBiNTgwYmFkYzEuNzhlNWU3ZmM2ZjMwMGJlM2Y2YjYwODkyMTA5MDRjNGI5MGUyMzJlMDU0MWYyMWJmOTM5NTk1NmVjZTIxZDNiOQ
+
+#EXTINF:-1 tvg-name="USA Network US" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png" group-title="Sports",USA Network US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM4ODQwMDYxMjQ6Y2RubGl2ZXR2LnR2OmU2MmE1NGE2MTkwMGYxNTEuZjZlNzA0YTA3MzU5ZjFlYTU0YTA5OGE4ZjllNGMyM2NjNjAwZjhkNjVmMjYyNmMwZWNiMDQ2NWNlZjY4MDg4OA
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2 FR FHD" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports",beIN SPORTS 2 FR FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6add40b02d4a99e07363df33/playlist.m3u8?token=NmFkZDQwYjAyZDRhOTllMDczNjNkZjMzOjE3OTM4ODQwMDYxMjc6Y2RubGl2ZXR2LnR2OjZiOWIwMTllMTIyMTEyMmUuZTdhYzNiNGM2YjY1YmNjYTRhZGRlZTg1ZThmMzRkNjJjMDFiM2ZlNTk5NjVhNGFiNTJlNDVhMzIwYTg1MmJjZQ
 
